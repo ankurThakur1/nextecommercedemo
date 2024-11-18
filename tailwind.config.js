@@ -10,7 +10,14 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        orangeHex: "#ff5c03",
+        yelloHex: "#ff8800",
+        greenHex: " #39a97c",
+        blueTextHex: "#007185"
       },
+      flex: {
+        "1": "1 0 32%"
+      }
     },
   },
   plugins: [],
